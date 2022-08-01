@@ -11,6 +11,9 @@
 | Computational Thinking with Algorithms |  &#9744; | &#9744; | &#9745; | &#9744; |
 | Applied Databases |  &#9744; | &#9744; | &#9745; | &#9744; |
 | Web Application Development |  &#9744; | &#9744; | &#9745; | &#9744; |
+| Machine Learning and Statistics |  &#9744; | &#9744; | &#9744; | &#9744; |
+| Multi-paradigm Programming |  &#9744; | &#9744; | &#9744; | &#9744; |
+| Data Representation |  &#9744; | &#9744; | &#9744; | &#9744; |
 
 ***
 
