@@ -4,9 +4,12 @@
 
 ***
 
-Below is a brief description of the modules and the projects done during my studies and the key learnings taken from them.
+Below is a list of the modules and a brief description of the projects done during my studies.
 
-- ### WEB APPLICATION DEVELOPMENT
+- ### [WEB APPLICATION DEVELOPMENT](https://github.com/AnteDujic/Web-Application-Development)
+  - [PROJECT SPECIFICATION](https://github.com/AnteDujic/Web-Application-Development/blob/main/Web%20Applications%20Development%20-%20Final%20Project%202022%20DA.pdf)
+ | Creating a website that employs the principles of HTML5, CSS and JavaScript
+  - KEY LEARNINGS: HTML5, CSS, JAVASCRIPT, D3
 
 
 
