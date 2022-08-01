@@ -24,7 +24,12 @@ Below is a list of the modules and a brief description of the projects done duri
 - ### [FUNDAMENTALS OF DATA ANALYSIS](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis)
   - [PROJECT SPECIFICATION](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/assessment.pdf)
   | Data analysis of the CAO points for 2019., 2020., 2021. and an overview of the matplotlib.pyplot Python package.
-  - KEY LEARNINGS: FETCHING DATA, CLEANING DATA, VISUAL REPRESANTATION, PYTHON, PYTHON LIBRARIES (numpy, pandas, matplotlib.pyplot, seaborn, requests, re, datetime, camelot, html), 
+  - KEY LEARNINGS: FETCHING DATA, CLEANING DATA, VISUAL REPRESANTATION, PYTHON, PYTHON LIBRARIES (numpy, pandas, matplotlib.pyplot, seaborn, requests, re, datetime, camelot, html), JUPYTER NOTEBOOK
+
+- ### [PROGRAMMING FOR DATA ANALYSIS](https://github.com/AnteDujic/Programming-for-Data-Analysis_project)
+  - [PROJECT SPECIFICATION](https://github.com/AnteDujic/Programming-for-Data-Analysis_project/blob/main/ProgDAProject.pdf)
+  | Simulating a real-world data matching their properties using Python. Modelling at least one-hundred data points across at least four different variables.
+  - KEY LEARNINGS: DATA SIMULATION, JUPYTER NOTEBOOK, PYTHON, PYTHON LIBRARIES (numpy.random, pandas, matplotlib.pyplot, seaborn, names)
 
 
 
