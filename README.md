@@ -21,6 +21,11 @@ Below is a list of the modules and a brief description of the projects done duri
     | Creating an App to benchmark five different sorting algorithm and a report on the benchmarking process.
     - KEY LEARNINGS: ALGORITHMS, SORTING ALGORITHMS, RECURSION, PYTHON
 
+- ### [FUNDAMENTALS OF DATA ANALYSIS](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis)
+  - [PROJECT SPECIFICATION](https://github.com/AnteDujic/Fundamentals-of-Data-Analysis/blob/main/assessment.pdf)
+  | Data analysis of the CAO points for 2019., 2020., 2021. and an overview of the matplotlib.pyplot Python package.
+  - KEY LEARNINGS: FETCHING DATA, CLEANING DATA, VISUAL REPRESANTATION, PYTHON, PYTHON LIBRARIES (numpy, pandas, matplotlib.pyplot, seaborn, requests, re, datetime, camelot, html), 
+
 
 
 
