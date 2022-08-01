@@ -2,7 +2,8 @@
 
 #### I am a student at [ATU](https://www.gmit.ie/) completing the Higher Diploma in Computing and Data Analytics.
 
-![TintedFemaleFieldspaniel-max-1mb](https://user-images.githubusercontent.com/77673808/182120595-4fbe84e2-bb93-4d4c-bfdc-800e8fb69fba.gif | width=100 )
+![ezgif-3-0b139fc082](https://user-images.githubusercontent.com/77673808/182121088-fb266eea-3839-4099-a7b7-f65e6d9c3a19.gif)
+
 
 | MODULE | JAN '21 | SEPT '21 | JAN '22 | SEP '22 |
 | :-: | :-: |:-: | :-: | :-: |
