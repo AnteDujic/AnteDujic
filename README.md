@@ -3,7 +3,7 @@
 #### I am a student at [ATU](https://www.gmit.ie/) completing the Higher Diploma in Computing and Data Analytics.
 
 | MODULE | JAN '21 | SEPT '21 | JAN '22 | SEP '22 |
-| :-: | :-: |:-: | :-: | :-: |
+| -: | :-: |:-: | :-: | :-: |
 | Computer Architecture | &#9745; | &#9744; | &#9744; | &#9744; |
 | Programming and Scripting | &#9745; | &#9744; | &#9744; | &#9744; |
 | Programming for Data Analysis |  &#9744; | &#9745; | &#9744; | &#9744; |
