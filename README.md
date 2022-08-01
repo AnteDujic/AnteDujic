@@ -16,7 +16,7 @@ Below is a list of the modules and a brief description of the projects done duri
  | Writing SQL and NEO4j queries and creating a Python App to manipulate databases.
   - KEY LEARNINGS: SQL, NEO4j, PYTHON
   
-  - ### [COMPUTATIONAL THINKING WITH ALGORITHMS](https://github.com/AnteDujic/Computational-Thinking-with-Algorithms)
+ - ### [COMPUTATIONAL THINKING WITH ALGORITHMS](https://github.com/AnteDujic/Computational-Thinking-with-Algorithms)
     - [PROJECT SPECIFICATION](https://github.com/AnteDujic/Computational-Thinking-with-Algorithms/blob/main/CTA_Project.pdf)
     | Creating an App to benchmark five different sorting algorithm and a report on the benchmarking process.
     - KEY LEARNINGS: ALGORITHMS, SORTING ALGORITHMS, RECURSION, PYTHON
