@@ -31,6 +31,10 @@ Below is a list of the modules and a brief description of the projects done duri
   | Simulating a real-world data matching their properties using Python. Modelling at least one-hundred data points across at least four different variables.
   - KEY LEARNINGS: DATA SIMULATION, JUPYTER NOTEBOOK, PYTHON, PYTHON LIBRARIES (numpy.random, pandas, matplotlib.pyplot, seaborn, names)
 
+- ### [PROGRAMMING AND SCRIPTING](https://github.com/AnteDujic/pands-project2021)
+  - PROJECT SPECIFICATION | Analysis of the Iris Flower data set using Python.
+  - KEY LEARNINGS: PROGRAMMING, PYTHON, PYTHON LIBRARIES (numpy, pandas, matplotlib.pyplot, seaborn)
+
 
 
 
