@@ -1,6 +1,6 @@
 # 👋 WELCOME 👋
 
-#### I am a student at [ATU](https://www.gmit.ie/) completing the Higher Diploma in Computing and Data Analytics.
+#### I am a recent graduate from [ATU](https://www.gmit.ie/) completing the Higher Diploma in Computing and Data Analytics.
 
 | MODULE | JAN '21 | SEPT '21 | JAN '22 | SEP '22 |
 | -: | :-: |:-: | :-: | :-: |
